@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LoveWonYoung/LoveWonYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Lianmin
 
-Here are some ideas to get you started:
+### Embedded Software Developer | Automotive Electronics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CAN / LIN / UDS / Bootloader / Go / Rust / Python
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Automotive+Embedded+Software;CAN+%2F+LIN+%2F+UDS+Tools;Go+%7C+Rust+%7C+Python;Building+diagnostic+and+test+automation+tools)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveWonYoung&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoveWonYoung&layout=compact&theme=tokyonight)
+
+</div>
