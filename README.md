@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Lianmin
+# 👋 Hi, I'm lm
 
 ### Embedded Software Developer | Automotive Electronics
 
