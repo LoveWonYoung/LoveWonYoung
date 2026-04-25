@@ -2,7 +2,7 @@
 
 # Hi, I'm lm
 
-喜欢写代码，爱好 **Python / Go / Rust**。
+**Python / Go / Rust**。
 
 <br />
 
