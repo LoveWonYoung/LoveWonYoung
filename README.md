@@ -2,8 +2,6 @@
 
 # Hi, I'm lm
 
-**Python / Go / Rust**。
-
 <br />
 
 <img src="https://skillicons.dev/icons?i=python,go,rust&theme=dark" alt="Python Go Rust" />
