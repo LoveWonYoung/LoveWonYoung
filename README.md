@@ -44,12 +44,8 @@ I care about clear interfaces, solid performance, and code that stays easy to ch
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LoveWonYoung&show_icons=true&theme=transparent&hide_border=true&bg_color=0B1220&title_color=5EEAD4&icon_color=2DD4BF&text_color=CBD5E1&ring_color=0D9488" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LoveWonYoung&theme=dark&hide_border=true&background=0B1220&ring=0D9488&fire=2DD4BF&currStreakLabel=5EEAD4&sideLabels=94A3B8&dates=64748B&stroke=1E293B" alt="GitHub streak" />
-
-  <br />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveWonYoung&layout=compact&theme=transparent&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=CBD5E1" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=LoveWonYoung&show_icons=true&theme=transparent&hide_border=true&bg_color=0B1220&title_color=5EEAD4&icon_color=2DD4BF&text_color=CBD5E1&ring_color=0D9488" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=LoveWonYoung&layout=compact&langs_count=6&theme=transparent&hide_border=true&bg_color=0B1220&title_color=5EEAD4&text_color=CBD5E1" alt="Top languages" />
 
 </div>
 
